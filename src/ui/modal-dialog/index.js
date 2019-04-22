@@ -32,7 +32,7 @@ const ModalDialog = module.exports = Vue.extend({
 	},
 
 	data: () => ({
-		wide: false
+		wide: true
 	}),
 
 	computed: {
