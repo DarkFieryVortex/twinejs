@@ -1,12 +1,12 @@
 {
 	"name": "Twine",
 	"version": "2.3.1",
-	"author": "Chris Klimas <chris@twinery.org>",
+	"author": "Jason Mill <serivik@gmail.com>",
 	"description": "a GUI for creating nonlinear stories",
 	"license": "GPL-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/klembot/twinejs"
+		"url": "https://github.com/DarkFieryVortex/twinejs"
 	},
 	"browserslist": "iOS 1-12, last 2 versions",
 	"main": "src/electron/index.js",
