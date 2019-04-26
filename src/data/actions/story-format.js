@@ -207,6 +207,12 @@ const actions = (module.exports = {
 				userAdded: false
 			},
 			{
+				name: 'Snowman',
+				url: 'story-formats/snowman-2.0.0-custom/format.js',
+				version: '2.0.0-custom',
+				userAdded: false
+			},
+			{
 				name: 'SugarCube',
 				url: 'story-formats/sugarcube-1.0.35/format.js',
 				version: '1.0.35',
